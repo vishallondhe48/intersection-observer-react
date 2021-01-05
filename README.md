@@ -1,6 +1,6 @@
 # intersection-observer-react
 
-intersection observer react implemented in react
+intersection observer implemented in react
 
 ## First make sure you have installed parcel bundler globally to install parcel-bundler
 
